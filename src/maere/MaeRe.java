@@ -26,7 +26,7 @@ public class MaeRe {
         
         if(i > 0){
             System.out.println("Eu sou um cabeção");
-        }else System.out.println("Eu não sou um cabeção");
+        }else System.out.println("Eu estou testando o GitHub");
     }
     
 }
